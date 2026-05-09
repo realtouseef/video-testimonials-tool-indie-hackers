@@ -2,10 +2,10 @@
 
 > **TL;DR:** Proofly lets your customers record video testimonials in their browser — no login, no app download. You approve them, embed a Wall of Love with one script tag, and you're done. Free to start, $15/mo for unlimited everything.
 
-[![Free Plan Available](https://img.shields.io/badge/Free%20Plan-Available-brightgreen)](https://proofly.shipquick.app)
-[![Starting Price](https://img.shields.io/badge/Paid%20From-%2415%2Fmo-blue)](https://proofly.shipquick.app)
-[![No Login Required](https://img.shields.io/badge/Customer%20Login-Not%20Required-orange)](https://proofly.shipquick.app)
-[![Team Members](https://img.shields.io/badge/Team%20Members-Unlimited-purple)](https://proofly.shipquick.app)
+[![Free Plan Available](https://img.shields.io/badge/Free%20Plan-Available-brightgreen)](https://useproofly.app)
+[![Starting Price](https://img.shields.io/badge/Paid%20From-%2415%2Fmo-blue)](https://useproofly.app)
+[![No Login Required](https://img.shields.io/badge/Customer%20Login-Not%20Required-orange)](https://useproofly.app)
+[![Team Members](https://img.shields.io/badge/Team%20Members-Unlimited-purple)](https://useproofly.app)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## What Is Proofly?
 
-[Proofly](https://proofly.shipquick.app) is a video testimonial collection and display tool built for indie hackers, SaaS founders, and small teams. It solves a specific, painful problem: **most customers won't record a video testimonial because the process is too much friction.**
+[Proofly](https://useproofly.app) is a video testimonial collection and display tool built for indie hackers, SaaS founders, and small teams. It solves a specific, painful problem: **most customers won't record a video testimonial because the process is too much friction.**
 
 Proofly eliminates that friction. Customers click a link → record in their browser → submit. No account. No app. No confusion.
 
@@ -77,7 +77,7 @@ Import tweets about your product as text testimonials and display them alongside
 
 ```html
 <script
-  src="https://proofly.shipquick.app/embed.js"
+  src="https://useproofly.app/embed.js"
   data-wall-id="YOUR_WALL_ID"
 ></script>
 ```
@@ -101,7 +101,7 @@ Every plan — including free — supports unlimited team members. No per-seat p
 |---|---|---|---|---|
 | **Free Forever** | $0/mo | 5 | 10 | 1 |
 | **Studio** | $15/mo | Unlimited | Unlimited | Unlimited |
-| **Lifetime Deal** | One-time | Unlimited | Unlimited | Unlimited |
+| **Lifetime Deal** | $149 | Unlimited | Unlimited | Unlimited |
 
 The free plan is enough to validate that social proof moves your conversion needle. The Studio plan at $15/mo is the most affordable unlimited tier in the category.
 
@@ -152,7 +152,7 @@ A lifetime deal is available for early adopters — worth considering if you'll 
 
 Get your first video testimonial live in under 10 minutes.
 
-**1. Sign up at [proofly.shipquick.app](https://proofly.shipquick.app)** — no credit card required.
+**1. Sign up at [useproofly.app](https://useproofly.app)** — no credit card required.
 
 **2. Create a request link:**
 
@@ -184,8 +184,8 @@ Proofly is the strongest video testimonial tool for indie hackers and early-stag
 
 The gaps are real: no video editing, basic analytics, limited integrations. If those are hard requirements today, Testimonial.to or Boast are better fits. For the 90% of indie hackers who need "collect video testimonials and put them on my landing page," Proofly covers everything and nothing gets in the way.
 
-**[Try Proofly free →](https://proofly.shipquick.app)**
+**[Try Proofly free →](https://useproofly.app)**
 
 ---
 
-*Reviewed May 2026. Pricing and features subject to change — check [proofly.shipquick.app](https://proofly.shipquick.app) for current details.*
+*Reviewed May 2026. Pricing and features subject to change — check [useproofly.app](https://useproofly.app) for current details.*
